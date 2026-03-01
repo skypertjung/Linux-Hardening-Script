@@ -12,7 +12,7 @@ Auditoría de Privilegios: Escanea el sistema en busca de archivos con permisos 
 
 Instalación y Uso
 
-git clone https://github.com/tu-usuario/Linux-Hardening-Script.git
+git clone https://github.com/skypertjung/Linux-Hardening-Script.git
 cd Linux-Hardening-ScriptAsignar
 
 permisos de ejecución:
